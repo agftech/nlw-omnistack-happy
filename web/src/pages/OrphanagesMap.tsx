@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 
 import mapMakerImg from '../images/map-marker-happy.svg'
 
+import '../styles/pages/orphanages-map.css';
+
 function OrphanagesMap() {
 	return (
 		<div id="page-map">
