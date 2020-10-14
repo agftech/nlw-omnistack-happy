@@ -1,5 +1,5 @@
 import express from "express";
-const path = require("path");
+import path from "path";
 import cors from "cors";
 import "express-async-errors";
 import errorHandler from "./errors/handler";
