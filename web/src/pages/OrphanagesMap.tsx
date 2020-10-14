@@ -54,7 +54,7 @@ function OrphanagesMap() {
         >
           <Popup closeButton={false} minWidth={240} maxWidth={240} className="map-popup">
             Lar das meninas
-            <Link to="">
+            <Link to="/orphanages/1">
               <FiArrowRight size={20} color="#FFF"/>
             </Link>
           </Popup>
