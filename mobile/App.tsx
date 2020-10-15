@@ -1,7 +1,7 @@
 
 import React from "react";
-import {StyleSheet, View, Dimensions} from "react-native";
-import MapView, {Marker, PROVIDER_GOOGLE} from "react-native-maps";
+import {StyleSheet, View, Dimensions, Text} from "react-native";
+import MapView, {Callout, Marker, PROVIDER_GOOGLE} from "react-native-maps";
 
 import mapMarker from "./src/images/map-marker-happy.png";
 
@@ -20,11 +20,20 @@ export default function App() {
       >
         <Marker
           icon={mapMarker}
+          calloutAnchor={{
+            x: 2.7,
+            y: 0.8,
+          }}
           coordinate={{
             latitude: -27.2892052,
             longitude: -49.6401092,
           }}
         />
+        <Callout tooltip={true}>
+          <View style={styles.calloutContainer}>
+              <Text style={styles.calloutText}>Lar das crianças</Text>
+          </View>
+        </Callout>
       </MapView>      
     </View>
   );
@@ -37,5 +46,17 @@ const styles = StyleSheet.create({
   map: {
     width: Dimensions.get("window").width,
     height: Dimensions.get("window").height,
+  },
+  calloutContainer: {
+    width: 160,
+    height: 46,
+    paddingHorizontal: 16,
+    backgroundColor: "rgba(255,255,255,0.8)",
+    borderRadius: 16,
+    justifyContent: "center",
+  },
+  calloutText: {
+    color: "#0089a5",
+    fontSize: 14,
   },
 });
