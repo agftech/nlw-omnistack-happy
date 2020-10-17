@@ -16,4 +16,4 @@ app.use(routes);
 app.use("/uploads", express.static(path.resolve(__dirname, "..", "uploads")));
 app.use(errorHandler);
 
-app.listen(3333);
+app.listen(`${process.env.PORT}`);
