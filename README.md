@@ -30,6 +30,7 @@
 <p align="center">
   <a href="#package-platforms"><img src="https://img.shields.io/badge/Platforms-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
   <a href="#rocket-technologies"><img src="https://img.shields.io/badge/Technologies-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
+  <a href="#thinking-contribute"><img src="https://img.shields.io/badge/How to contribute-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
   <a href="#memo-license"><img src="https://img.shields.io/badge/License-ffd666?style=for-the-badge"/></a>
 </p>
 
@@ -76,10 +77,20 @@
 > ---
 
 > ---
+> ## :thinking: _**How to contribute**_:
+> - *Fork this repository `https://github.com/agftech/nlw-omnistack-happy`;*
+> - *Create a branck with your feature: `git checkout -b name-feature`;*
+> - *Commit your changes: `git commit -m 'feat: 'name' new feature'`;*
+> - *Make a push to your branch: `git push origin name-feature`.*
+> - *After the merge of your pull request is done, you can delete a branch of yours.*
+>
+> ---
+
+> ---
 >
 > ## :memo: _**License**_:
 >
-> This project is under MIT. See at here [![License: MIT](https://img.shields.io/badge/License-MIT-12afcb.svg)](https://opensource.org/licenses/MIT) for more informations.
+> *This project is under MIT. See at here [![License: MIT](https://img.shields.io/badge/License-MIT-12afcb.svg)](https://opensource.org/licenses/MIT) for more informations.*
 >
 > ---
 
