@@ -30,7 +30,7 @@
 <p align="center">
   <a href="#package-platforms"><img src="https://img.shields.io/badge/Platforms-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
   <a href="#rocket-technologies"><img src="https://img.shields.io/badge/Technologies-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
-  <a href="#thinking-contribute"><img src="https://img.shields.io/badge/How to contribute-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
+  <a href="#thinking-how-to-contribute"><img src="https://img.shields.io/badge/How to contribute-ffd666?style=for-the-badge"/></a>&nbsp;&nbsp;
   <a href="#memo-license"><img src="https://img.shields.io/badge/License-ffd666?style=for-the-badge"/></a>
 </p>
 
