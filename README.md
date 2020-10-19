@@ -23,7 +23,7 @@
   <img alt="by AGFTech" src="https://img.shields.io/badge/made%20by-AGFTECH's-12afcb">
   </a>
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/3">
-   <img alt="NLW 2.0" src="https://img.shields.io/badge/ NLW 2.0 Trail Omnistack-Happy-12afcb">
+   <img alt="NLW 3.0" src="https://img.shields.io/badge/ NLW 3.0 Trail Omnistack-Happy-12afcb">
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 >
 > | Platform  | Technologies                                                                                         | Codes
 > | --------- | ---------------------------------------------------------------------------------------------------- | -----------------------
-> | :cloud: Backend | [<img src="https://img.shields.io/badge/NodeJS-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/server)
+> | :cloud: Backend | [<img src="https://img.shields.io/badge/NodeJS-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/backend)
 > | :computer: Web | [<img src="https://img.shields.io/badge/NodeJS-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Web](https://github.com/agftech/nlw-omnistack-happy/tree/master/web)
 > | :iphone: Mobile | [<img src="https://img.shields.io/badge/NodeJS-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) + [<img src="https://img.shields.io/badge/Expo-000000?logo=expo"/>](https://expo.org/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Mobile](https://github.com/agftech/nlw-omnistack-happy/tree/master/mobile)
 >
