@@ -40,9 +40,9 @@
 >
 > | Type  | Technologies                                                                                         | Codes
 > | --------- | ---------------------------------------------------------------------------------------------------- | -----------------------
-> | :cloud: <img src="https://img.shields.io/badge/Backend%3F-yes-00b8d3?" alt="Backend yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/backend)
-> | :computer: <img src="https://img.shields.io/badge/Web%3F-yes-00b8d3?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Web](https://github.com/agftech/nlw-omnistack-happy/tree/master/web)
-> | :iphone: <img src="https://img.shields.io/badge/Mobile%3F-yes-00b8d3?" alt="Mobile yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) + [<img src="https://img.shields.io/badge/Expo-000000?logo=expo"/>](https://expo.org/) + [<img src="https://img.shields.io/badge/typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Mobile](https://github.com/agftech/nlw-omnistack-happy/tree/master/mobile)
+> | :cloud: <img src="https://img.shields.io/badge/Backend%3F-yes-ffd666?" alt="Backend yes" /> | [<img src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia"/>](https://insomnia.rest/download/) +  [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/backend)
+> | :computer: <img src="https://img.shields.io/badge/Web%3F-yes-ffd666?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox"/>](https://www.mapbox.com/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Web](https://github.com/agftech/nlw-omnistack-happy/tree/master/web)
+> | :iphone: <img src="https://img.shields.io/badge/Mobile%3F-yes-ffd666?" alt="Mobile yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) + [<img src="https://img.shields.io/badge/Expo-000000?logo=expo"/>](https://expo.org/) + [<img src="https://img.shields.io/badge/Google Maps-4285F4?&logoColor=FFF&logo=google-maps"/>](https://www.google.com.br/maps/)  + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Mobile](https://github.com/agftech/nlw-omnistack-happy/tree/master/mobile)
 >
 > ---
 
@@ -87,7 +87,7 @@
 > 5. *Make a push to your branch: `git push origin name-feature`.*;
 > 6. *Create a new Pull Request.*;
 >
-> - *Okay, now just wait for the rocket analysis*;
+> - *Okay, now just wait for the order analysis*;
 >
 > - *After the merge of your pull request is done, you can delete your branch.*
 >
