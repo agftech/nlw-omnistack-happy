@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Happy" title="Happy" src="https://github.com/agftech/nlw-omnistack-happy/blob/master/.github/custom-nlw-happy.svg" width="610px" />
+<img alt="Happy" title="Happy" src="https://github.com/agftech/nlw-omnistack-happy/blob/master/.github/custom-nlw-happy.svg" width="625px" />
 </h1>
 
 <h2 align="center">
@@ -40,9 +40,9 @@
 >
 > | Type  | Technologies                                                                                         | Codes
 > | --------- | ---------------------------------------------------------------------------------------------------- | -----------------------
-> | :cloud: <img src="https://img.shields.io/badge/Backend%3F-yes-ffd666?" alt="Backend yes" /> | [<img src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia"/>](https://insomnia.rest/download/) +  [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/backend)
-> | :computer: <img src="https://img.shields.io/badge/Web%3F-yes-ffd666?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox"/>](https://www.mapbox.com/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Web](https://github.com/agftech/nlw-omnistack-happy/tree/master/web)
-> | :iphone: <img src="https://img.shields.io/badge/Mobile%3F-yes-ffd666?" alt="Mobile yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) + [<img src="https://img.shields.io/badge/Expo-000000?logo=expo"/>](https://expo.org/) + [<img src="https://img.shields.io/badge/Google Maps-4285F4?&logoColor=FFF&logo=google-maps"/>](https://www.google.com.br/maps/)  + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Mobile](https://github.com/agftech/nlw-omnistack-happy/tree/master/mobile)
+> | <img src="https://img.shields.io/badge/Backend%3F-yes-ffd666?" alt="Backend yes" /> | [<img src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia"/>](https://insomnia.rest/download/) +  [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Backend](https://github.com/agftech/nlw-omnistack-happy/tree/master/backend)
+> | <img src="https://img.shields.io/badge/Web%3F-yes-ffd666?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3"/>](http://www.w3.org/TR/css3-roadmap/) + [<img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox"/>](https://www.mapbox.com/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Web](https://github.com/agftech/nlw-omnistack-happy/tree/master/web)
+> | <img src="https://img.shields.io/badge/Mobile%3F-yes-ffd666?" alt="Mobile yes" /> | [<img src="https://img.shields.io/badge/Node-339933?&logoColor=FFF&logo=node.js"/>](https://nodejs.org/en/) + [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) + [<img src="https://img.shields.io/badge/Expo-000000?logo=expo"/>](https://expo.org/) + [<img src="https://img.shields.io/badge/Google Maps-4285F4?&logoColor=FFF&logo=google-maps"/>](https://www.google.com.br/maps/)  + [<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) | [Mobile](https://github.com/agftech/nlw-omnistack-happy/tree/master/mobile)
 >
 > ---
 
@@ -84,8 +84,8 @@
 > 2. *Clone the fork to your machine `https://github.com/agftech/nlw-omnistack-happy`;*
 > 3. *Create a branck with your feature: `git checkout -b name-feature`;*
 > 4. *Commit your changes: `git commit -m 'feat: 'name' new feature'`;*
-> 5. *Make a push to your branch: `git push origin name-feature`.*;
-> 6. *Create a new Pull Request.*;
+> 5. *Make a push to your branch: `git push origin name-feature`*;
+> 6. *Create a new Pull Request.*
 >
 > - *Okay, now just wait for the order analysis*;
 >
