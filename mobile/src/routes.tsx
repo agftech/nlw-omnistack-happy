@@ -12,6 +12,8 @@ import OrphanageData from "./pages/CreateOrphanage/OrphanageData";
 
 import Header from "./components/Header";
 
+import Onboardings from "./pages/OnboardingScreens/OnboardingScreen";
+
 export default function Routes() {
 	return (
 		<NavigationContainer>
@@ -21,6 +23,8 @@ export default function Routes() {
 					cardStyle: { backgroundColor: "#f2f3f5" },
 				}}
 			>
+				<Screen name='Onboardings' component={Onboardings} />
+
 				<Screen name='OrphanagesMap' component={OrphanagesMap} />
 				<Screen
 					name='OrphanageDetails'
