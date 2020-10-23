@@ -20,8 +20,10 @@
 		"react": "16.13.1",
 		"react-dom": "16.13.1",
 		"react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+		"react-native-elements": "^3.0.0-alpha.1",
 		"react-native-gesture-handler": "~1.7.0",
 		"react-native-maps": "^0.27.1",
+		"react-native-onboarding-swiper": "^1.1.4",
 		"react-native-reanimated": "~1.13.0",
 		"react-native-safe-area-context": "3.1.4",
 		"react-native-screens": "~2.10.1",
@@ -33,6 +35,7 @@
 		"@types/react": "~16.9.35",
 		"@types/react-dom": "~16.9.8",
 		"@types/react-native": "~0.63.2",
+		"@types/react-native-onboarding-swiper": "^1.1.0",
 		"typescript": "~3.9.5"
 	},
 	"private": true
