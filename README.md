@@ -53,16 +53,9 @@
 >
 > #### :cloud: `Backend:`
 > <a href="https://github.com/expressjs/cors"><img alt="cors" align="center" src="https://img.shields.io/badge/-cors-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://expressjs.com/"><img alt="expressjs" align="center" src="https://img.shields.io/badge/-expressjs-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://github.com/davidbanham/express-async-errors"><img alt="express async errors" align="center" src="https://img.shields.io/badge/-express async errors-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://github.com/expressjs/multer"><img alt="multer" align="center" src="https://img.shields.io/badge/-multer-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://www.sqlite.org/index.html"><img alt="sqlite3" align="center" src="https://img.shields.io/badge/-sqlite3-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://www.typescriptlang.org/"><img alt="typescript" align="center" src="https://img.shields.io/badge/-typescript-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://typeorm.io/#/"><img alt="typeorm" align="center" src="https://img.shields.io/badge/-typeorm-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://github.com/jquense/yup"><img alt="yup" align="center" src="https://img.shields.io/badge/-yup-gray.svg?color=6A788D&style=for-the-badge" /></a>
-
 >
 > #### :computer: `Web:`
-> - [axios](https://github.com/axios/axios);
-> - [leaflet](https://leafletjs.com/);
-> - [react](https://reactjs.org/);
-> - [react-icons](https://react-icons.github.io/react-icons/);
-> - [react-leaflet](https://react-leaflet.js.org/);
-> - [react-router](https://github.com/ReactTraining/react-router);
-> - [typescript](https://www.typescriptlang.org/);
+> <a href="https://github.com/axios/axios"><img alt="axios" align="center" src="https://img.shields.io/badge/-axios-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://leafletjs.com/"><img alt="leaflet" align="center" src="https://img.shields.io/badge/-leaflet-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://reactjs.org/"><img alt="react" align="center" src="https://img.shields.io/badge/-react-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://react-icons.github.io/react-icons/"><img alt="react-icons" align="center" src="https://img.shields.io/badge/-react icons-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://react-leaflet.js.org/"><img alt="react-leaflet" align="center" src="https://img.shields.io/badge/-react leaflet-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://github.com/ReactTraining/react-router"><img alt="react-router" align="center" src="https://img.shields.io/badge/-react router-gray.svg?color=6A788D&style=for-the-badge" /></a> <a href="https://www.typescriptlang.org/"><img alt="typescript" align="center" src="https://img.shields.io/badge/-typescript-gray.svg?color=6A788D&style=for-the-badge" /></a>
 >
 > #### :iphone: `Mobile:`
 > - [axios](https://github.com/axios/axios);
